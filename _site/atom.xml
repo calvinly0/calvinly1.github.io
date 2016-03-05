@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hi, I&#39;m Calvin Ly</title>
+ <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000/"/>
+ <updated>2016-03-04T22:07:32-07:00</updated>
+ <id>http://127.0.0.1:4000</id>
+ <author>
+   <name>Calvin Ly</name>
+   <email>calvin.ly8@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
