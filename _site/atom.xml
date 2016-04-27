@@ -2,15 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Hi, I&#39;m Calvin Ly</title>
- <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
- <link href="http://127.0.0.1:4000/"/>
- <updated>2016-03-04T22:07:32-07:00</updated>
- <id>http://127.0.0.1:4000</id>
+ <link href="calvinkly.com/atom.xml" rel="self"/>
+ <link href="calvinkly.com/"/>
+ <updated>2016-04-27T04:29:23-06:00</updated>
+ <id>calvinkly.com</id>
  <author>
    <name>Calvin Ly</name>
    <email>calvin.ly8@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Vegesaurus Rex</title>
+   <link href="calvinkly.com/development/2016/02/20/vegesaurus-rex.html"/>
+   <updated>2016-02-20T08:56:00-07:00</updated>
+   <id>calvinkly.com/development/2016/02/20/vegesaurus-rex</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Encouraging Words</title>
+   <link href="calvinkly.com/development/2016/02/20/encouraging-words.html"/>
+   <updated>2016-02-20T08:56:00-07:00</updated>
+   <id>calvinkly.com/development/2016/02/20/encouraging-words</id>
+   <content type="html">
+</content>
+ </entry>
  
 
 </feed>
