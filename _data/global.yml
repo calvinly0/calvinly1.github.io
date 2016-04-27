@@ -1,7 +1,7 @@
 # Site Settings
 title: "Hi, I'm Calvin Ly"
 description: "I am a Computer Science student at CU Boulder and aspiring software engineer."
-url: 'about' # the base hostname & protocol for your site
+url: '' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2016 Calvin Ly'
 blog: 'friedchickenadventure.com'
