@@ -3,11 +3,10 @@
   <channel>
     <title>Hi, I&#39;m Calvin Ly</title>
     <description>I am a Computer Science student at CU Boulder and aspiring software engineer.</description>
-<<<<<<< HEAD
-    <link>calvinkly.com/</link>
-    <atom:link href="calvinkly.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Apr 2016 04:29:23 -0600</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2016 04:29:23 -0600</lastBuildDate>
+    <link>www.calvinkly.com/</link>
+    <atom:link href="www.calvinkly.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Apr 2016 05:06:43 -0600</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 05:06:43 -0600</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -15,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 08:56:00 -0700</pubDate>
-        <link>calvinkly.com/development/2016/02/20/vegesaurus-rex.html</link>
-        <guid isPermaLink="true">calvinkly.com/development/2016/02/20/vegesaurus-rex.html</guid>
+        <link>www.calvinkly.com/development/2016/02/20/vegesaurus-rex.html</link>
+        <guid isPermaLink="true">www.calvinkly.com/development/2016/02/20/vegesaurus-rex.html</guid>
         
         <category>Unity</category>
         
@@ -34,8 +33,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 08:56:00 -0700</pubDate>
-        <link>calvinkly.com/development/2016/02/20/encouraging-words.html</link>
-        <guid isPermaLink="true">calvinkly.com/development/2016/02/20/encouraging-words.html</guid>
+        <link>www.calvinkly.com/development/2016/02/20/encouraging-words.html</link>
+        <guid isPermaLink="true">www.calvinkly.com/development/2016/02/20/encouraging-words.html</guid>
         
         <category>Android</category>
         
@@ -48,13 +47,5 @@
         
       </item>
     
-=======
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Mar 2016 22:07:32 -0700</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2016 22:07:32 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
-    
->>>>>>> 20dd700c10fc5bf4d86a26e4930bcfeae06924e1
   </channel>
 </rss>
