@@ -4,7 +4,7 @@ description: "I am a Computer Science student at CU Boulder and am currently a s
 url: '' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2016 Calvin Ly'
-blog: 'friedchickenadventure.com'
+# blog: 'friedchickenadventure.com'
 facebook: calvin.ly.14
 github: 'calvinly1'
 linkedin: 'calvin-ly-83900695'
