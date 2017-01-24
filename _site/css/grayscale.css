@@ -3,6 +3,24 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+rsvpfield{
+  position: relative;
+  margin-top: 30px;
+}
+
+.rsvpfield input{
+  border-radius: 20px;
+  color: black;
+}
+
+.rsvpfield #code{
+  position: absolute;
+  margin-top: 200px;
+  width: 170px;
+  height: 35px;
+  z-index: 1;
+}
+
 body {
   width: 100%;
   height: 100%;
