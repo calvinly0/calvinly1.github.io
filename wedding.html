@@ -125,6 +125,13 @@
         </div>
     </footer>
 
+    <script type="text/javascript">
+    function sendTo(){
+    var url = "http://" + document.getElementsByName("code")[0].value + ".ansrvp.com";
+    window.open(url);
+}
+</script>
+
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.js"></script>
 
@@ -139,14 +146,6 @@
 
     <!-- Theme JavaScript -->
     <script src="js/grayscale.js"></script>
-
-    <script type="text/javascript">
-    function sendTo(){
-    var action_src = "http://localhost/test/" + document.getElementsById("code")[0].value;
-    var your_form = document.getElementById('myForm');
-    your_form.action = action_src ;
-}
-}</script>
 
 </body>
 
