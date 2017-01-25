@@ -3,13 +3,32 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+table th {
+    border-top: none !important;
+}
+table td {
+  border-top: none !important;
+  text-align: left;
+}
+.nameandtitle{
+  vertical-align: middle;
+  text-align: center;
+  font-size: 220%;
+}
+
+.nameandtitle img{
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
 rsvpfield{
   position: relative;
   margin-top: 30px;
 }
 
 .rsvpfield input{
-  border-radius: 20px;
+  border-radius: 10px;
   color: black;
 }
 
@@ -21,6 +40,10 @@ rsvpfield{
   z-index: 1;
 }
 
+submitbtn input{
+  color: black;
+  padding-top: 25px;
+}
 body {
   width: 100%;
   height: 100%;
@@ -33,7 +56,6 @@ html {
   height: 100%;
 }
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -42,6 +64,14 @@ h6 {
   font-family: "Tangerine", serif;
   font-weight: 700;
   letter-spacing: 1px;
+}
+
+h2{
+  margin: 0 0 35px;
+  font-family: "Tangerine", serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 400%;
 }
 
 .homepage {
