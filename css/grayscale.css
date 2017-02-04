@@ -8,7 +8,9 @@ table th {
 }
 table td {
   border-top: none !important;
-  text-align: left;
+  text-align: center;
+  table-layout: fixed;
+  word-wrap: break-word;
 }
 .nameandtitle{
   vertical-align: middle;
