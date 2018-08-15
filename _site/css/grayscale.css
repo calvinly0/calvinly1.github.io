@@ -4,18 +4,21 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 table th {
-    border-top: none !important;
+    /*border-top: none !important;*/
 }
 table td {
-  border-top: none !important;
+  /*border-top: none !important;*/
   text-align: center;
   table-layout: fixed;
   word-wrap: break-word;
+  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #d2d4d8;
 }
 .nameandtitle{
   vertical-align: middle;
   text-align: center;
   font-size: 220%;
+  color: white;
 }
 
 .nameandtitle img{
@@ -51,7 +54,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: black;
+  background-color: #161616;
 }
 html {
   width: 100%;
@@ -82,7 +85,7 @@ h2{
 }
 p {
   margin: 0 0 25px;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.5;
 }
 @media (min-width: 768px) {
